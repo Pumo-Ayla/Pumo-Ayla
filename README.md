@@ -15,4 +15,4 @@
 - 
 - ⚡我的已公开项目均以CC BY-NC 4.0协议开源，在遵守CC BY-NC 4.0协议的情况下您无需经过我的同意即可使用。
 - My public projects are all open source under the CC BY-NC 4.0 agreement. You can use them without my consent as long as you comply with the CC BY-NC 4.0 agreement.
-- 
+- CC BY-NC 4.0【https://creativecommons.org/licenses/by-nc/4.0/】
